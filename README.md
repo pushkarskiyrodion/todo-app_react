@@ -1,46 +1,41 @@
-# Getting Started with Create React App
+# React ToDo App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Project Overview
 
-## Available Scripts
+This is a simple Todo app that allows you to create, manage, and organize your tasks efficiently. It is based on the Todo app originally created by [Oscar Godson](http://todomvc.com/examples/vanillajs/).
 
-In the project directory, you can run:
+Check out the [DEMO LINK](https://pushkarskiyrodion.github.io/react_todo-app/) to see the live version of the ToDo App.
 
-### `npm start`
+## Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
++ Task Creation: Easily create new tasks with a title and press the Enter to add a task .
++ Task Management: Mark tasks as complete or incomplete, delete tasks, and edit task details.
++ Filtering: Filter tasks based on specific criteria.
++ User-Friendly Interface: The app provides a clean and intuitive user interface for seamless task management.
++ Local Storage: The app utilizes browser's local storage to save your todos, ensuring they are persisted even when you close or refresh the page.
++ Responsive Design: Enjoy a consistent experience across various devices with responsive design principles.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Technologies Used
 
-### `npm test`
++ JavaScript
++ React.js
++ HTML
++ CSS
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Installation
 
-### `npm run build`
+To run the KatVR landing page locally, follow these steps:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. Clone the repository: `git clone https://github.com/pushkarskiyrodion/todo-app_react.git`
+2. Navigate to the project directory: `cd todo-app_react`
+3. Install dependencies: `npm install`
+4. Start the development server: `npm start`
+5. Open your web browser and visit: `http://localhost:3000`
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Usage
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Once you have followed the installation steps and the development server is running, you can access the ToDo app in your web browser. From there, you can efficiently manage your tasks and interact with the app's features. Add new tasks, mark tasks as complete or incomplete, delete tasks, and edit task details as required. Utilize the filtering feature to focus on specific subsets of your tasks. 
 
-### `npm run eject`
+## Feedback
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Thank you for checking out the ToDo App. If you have any questions or feedback, please don't hesitate to [contact me](mailto:pushkarskiyrodion@gmail.com). Your input is greatly appreciated!
